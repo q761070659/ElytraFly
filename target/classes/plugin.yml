@@ -1,0 +1,8 @@
+name: ely
+version: '1.0-SNAPSHOT'
+main: s.d.ely.ElytraFly
+api-version: '1.21'
+depend:
+  - packetevents
+commands:
+  elytrafly:

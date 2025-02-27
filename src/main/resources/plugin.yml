@@ -1,0 +1,8 @@
+name: ely
+version: '${project.version}'
+main: s.d.ely.ElytraFly
+api-version: '1.21'
+depend:
+  - packetevents
+commands:
+  elytrafly:
